@@ -1,0 +1,22 @@
+=== W01D1 Environment Evidence ===
+
+Date:
+Mon Sep 28 13:45:16 AEST 2026
+
+User:
+tristan
+
+Working directory:
+/home/tristan/projects/ml-ai-engineering-roadmap
+
+Linux:
+Linux DESKTOP-CNRI3KP 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 GNU/Linux
+
+Ubuntu:
+PRETTY_NAME="Ubuntu 26.04.1 LTS"
+
+Python:
+Python 3.14.4
+
+Git:
+git version 2.53.0
