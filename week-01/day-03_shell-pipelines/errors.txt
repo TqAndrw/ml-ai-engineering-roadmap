@@ -1,0 +1,4 @@
+ERROR,user=bob,action=payment_failed
+ERROR,user=alice,action=timeout
+ERROR,user=bob,action=payment_failed
+ERROR,user=david,action=timeout
