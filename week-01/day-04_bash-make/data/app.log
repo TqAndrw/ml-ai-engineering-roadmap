@@ -1,0 +1,6 @@
+INFO,user=alice,action=login
+ERROR,user=bob,action=payment_failed
+INFO,user=charlie,action=login
+ERROR,user=alice,action=timeout
+ERROR,user=bob,action=payment_failed
+INFO,user=alice,action=logout
